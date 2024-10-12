@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\大地测量\guisuan\guisuan\bin\Debug\guisuan.exe.config
+C:\Users\LENOVO\Desktop\大地测量\guisuan\guisuan\bin\Debug\guisuan.exe
+C:\Users\LENOVO\Desktop\大地测量\guisuan\guisuan\bin\Debug\guisuan.pdb
+C:\Users\LENOVO\Desktop\大地测量\guisuan\guisuan\obj\Debug\guisuan.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\大地测量\guisuan\guisuan\obj\Debug\guisuan.Form1.resources
+C:\Users\LENOVO\Desktop\大地测量\guisuan\guisuan\obj\Debug\guisuan.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\大地测量\guisuan\guisuan\obj\Debug\guisuan.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\大地测量\guisuan\guisuan\obj\Debug\guisuan.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\大地测量\guisuan\guisuan\obj\Debug\guisuan.exe
+C:\Users\LENOVO\Desktop\大地测量\guisuan\guisuan\obj\Debug\guisuan.pdb
